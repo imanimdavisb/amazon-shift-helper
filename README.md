@@ -1,4 +1,7 @@
 # Amazon Shift Helper
+## Demo
+
+![Program Demo](amazon_shift_helper_demo.png)
 
 A beginner Python project that estimates weekly pay based on hours worked and hourly pay rate.
 
